@@ -2,8 +2,7 @@
 sip-server-gb28181
 
 ### 预备知识
- - [ ]《GBT 28181-2016 公共安全视频监控联网系统信息传输、交换、控制技术要求》
- - [ ] sip ： 使用开源库exosip2
+ - [ ] sip ：使用开源库exosip2
  - [ ] XML ：使用开源库tinyxml
  - [ ] json ：使用开源库nlohmann
  - [ ] http ：使用开源库httplib
@@ -12,6 +11,7 @@ sip-server-gb28181
 ### 开发及运行环境
 
 win10 + VS2020
+
 centos7 + gcc8.2
 
 
@@ -26,6 +26,7 @@ centos7 + gcc8.2
  - [VS2015下编译libeXosip2.5.1](https://blog.csdn.net/machh/article/details/103159346)
 
  ### GB28181相关 
+- 《GBT 28181-2016 公共安全视频监控联网系统信息传输、交换、控制技术要求》
  - [一个基于GB28181的流媒体平台架构图](https://machh.blog.csdn.net/article/details/112173985)
  - [GB28181国标错误码](https://machh.blog.csdn.net/article/details/91049415)
  - [GB28181系列之--设备注册](https://blog.csdn.net/machh/article/details/103601345)
